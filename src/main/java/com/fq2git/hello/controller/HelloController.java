@@ -5,7 +5,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class HelloController {
-
+    /**
+     * 小菜鸟git 初识
+     * @return
+     */
     @RequestMapping("/hello")
     public String HelloSpringBoot(){
         return "Hello SpringBoot!!";
