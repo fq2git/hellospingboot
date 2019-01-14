@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HelloController {
     /**
-     * 小菜鸟git 初识
+     * github 20190114
      * @return
      */
     @RequestMapping("/hello")
